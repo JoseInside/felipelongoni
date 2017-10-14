@@ -2658,7 +2658,7 @@
 /* Mobile */
 
 	#navPanel, #titleBar {
-		display: none;
+		display: all;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -2786,7 +2786,7 @@
 				padding-bottom: 1px;
 			}
 
-			/*#navButton {
+			#navButton {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
