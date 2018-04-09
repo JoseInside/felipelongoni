@@ -2658,7 +2658,7 @@
 /* Mobile */
 
 	#navPanel, #titleBar {
-		display: all;
+		display: none;
 	}
 
 	@media screen and (max-width: 736px) {
